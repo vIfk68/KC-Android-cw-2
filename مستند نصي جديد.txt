@@ -1,0 +1,18 @@
+
+public class Main
+{
+	public static void main(String[] args) {
+		String name ='fatima'
+int age=16;
+System.out.println{'Hi,my name'+name+'and I am'+'yars old'}
+    
+	}
+	}
+	
+	2
+int height =180;
+
+if (height >160){
+    System.out.pritn('you can enter the rollercoaster!')
+      System.out.pritn('you can enter the rollercoaster!')
+    
